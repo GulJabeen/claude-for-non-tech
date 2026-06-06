@@ -38,6 +38,7 @@ Copy, fill in the blanks, and use in Claude Desktop.
 
 - Free Claude tutorials: https://claude.com/resources/tutorials
 - Anthropic learning hub: https://www.anthropic.com/learn
+- Prompt Engineering Interactive Tutorial: https://github.com/anthropics/prompt-eng-interactive-tutorial
 - Claude plugins: https://claude.com/plugins
 - Claude connectors: https://claude.com/connectors
 
