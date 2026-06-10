@@ -12,17 +12,17 @@ This series is for everyone else.
 
 ---
 
-## What You'll Learn
+## Where You'll End Up
 
-By the end of this series you'll know how to:
+By the time this series is done, you won't just "use" Claude.
 
-- **Set up Claude properly** — not just open a tab and hope for the best
-- **Write prompts that actually work** — there's a 3-part formula, and once you see it you can't unsee it
-- **Give Claude a memory** — so it knows your business, your tone, your context, every single time
-- **Connect Claude to your real tools** — calendar, email, files, browser — all of it
-- **Build workflows that run on their own** — you describe what you want, Claude figures out the steps
-- **Create your own skills and agents** — Claude that does specific jobs for you, reliably, without babysitting
-- **Watch a full live demo** — a real workflow built from scratch, nothing hidden
+You'll *own* it.
+
+You'll have a fully set-up AI system that knows who you are, connects to your tools, remembers your work, and runs tasks for you in the background — while you focus on the things that actually need you.
+
+You'll understand the entire Claude ecosystem: the desktop app, the plugins, the memory system, the workflows, the skills, the agents. Not as buzzwords — as tools you use every day.
+
+Most people spend months figuring this out on their own, or never figure it out at all. You'll have it in 19 days.
 
 No prior experience needed. If you can type, you can do this.
 
